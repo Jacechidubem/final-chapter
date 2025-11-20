@@ -1,7 +1,7 @@
 # Interview Preparation & Final Review
 ## About Me
 
-My name is Joseph Enyinnia, a MERN Stack trainee at GOMYCODE. Throughout this bootcamp, I have developed strong technical and professional skills that have prepared me to take the next step in my software development career.
+My name is Joseph Enyinnia, a Software Development trainee at GOMYCODE. Throughout this bootcamp, I have developed strong technical and professional skills that have prepared me to take the next step in my software development career.
 
 ## Readiness for the Next Step in My Career
 
